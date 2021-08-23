@@ -1,4 +1,0 @@
-InputHour: 00
-InputMinute: 01
-Hrduration: 6
-Minduration: 30
