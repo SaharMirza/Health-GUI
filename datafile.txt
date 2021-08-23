@@ -1,6 +1,6 @@
-Name: Sahar
-Age(in years): 40
+Name: sahar
+Age(in years): 30
 Gender: Female
 Weight(in kg): 50.0
-Height(in cm): 40.0
+Height(in cm): 50.0
 Blood Group: A+ 
